@@ -8,7 +8,7 @@ from email.header import Header
 
 mail_user = 'xuwenhao001@mail.com'    # 发件人邮箱账号
 mail_pass = 'test1'              # 发件人邮箱密码
-mail_to_list = ["xuwenhao001@deppon.com", "123864643@qq.com"]      # 收件人邮箱账号，我这边发送给自己
+mail_to_list = ["xuwenhao001@test.com", "123@qq.com"]      # 收件人邮箱账号，我这边发送给自己
 mail_host = 'client.mail.com'
 
 mail_msg = """
